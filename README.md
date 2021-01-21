@@ -1,2 +1,5 @@
 # Google-Drive-Homepage-Clone
-Created with CodeSandbox
+
+Google Drive Homepage built with Html & css-flexbox
+
+![Preview of Drive Homepage](https://github.com/karan-codes/Drive-Homepage/blob/main/Preview.png)
